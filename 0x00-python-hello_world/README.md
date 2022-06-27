@@ -1,1 +1,1 @@
-# 0x00. Python - Hello, World
+This readme contains scripts on Python Hello, World project
