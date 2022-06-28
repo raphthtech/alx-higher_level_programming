@@ -1,1 +1,1 @@
-# 0x01. Python - if/else, loops, functions
+This directory contains projects on Python loops, if statements and functions.
